@@ -1,0 +1,6 @@
+Disease,AUROC,F1,Precision,Recall
+Atelectasis,0.7257882882882883,0.0,0.0,0.0
+Cardiomegaly,0.5017142857142858,0.0,0.0,0.0
+Effusion,0.6070363744782349,0.0,0.0,0.0
+Infiltration,0.6434108527131783,0.0,0.0,0.0
+Pneumonia,0.7151898734177216,0.0,0.0,0.0
